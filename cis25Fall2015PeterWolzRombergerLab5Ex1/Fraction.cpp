@@ -39,7 +39,7 @@ int FractionPeterW::getDenom() const {
 	return denom;
 }
 
-int FractionPeterW::getNum() const {
+int FractionPeterW::getnum() const {
 	return num;
 }
 

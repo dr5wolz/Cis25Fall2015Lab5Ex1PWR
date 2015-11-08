@@ -22,7 +22,7 @@ public:
 	void setNum(int);
 	int getDenom(void) const;
 	void setDenom(int);
-	int getNum(void) const;
+	int getnum(void) const;
 	~FractionPeterW();
 	friend ostream& operator<<(ostream&, const FractionPeterW&);
 	void reduce(FractionPeterW&);

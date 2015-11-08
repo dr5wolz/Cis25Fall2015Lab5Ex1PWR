@@ -9,10 +9,14 @@
 using namespace std;
 #include "FRACTIONPETERW.H"
 #include "UTILITIES.H"
+#include "Fraction.cpp"
+
+
 
 
 int main() {
 	
+
 	mainMenu();
 
 	return 0;

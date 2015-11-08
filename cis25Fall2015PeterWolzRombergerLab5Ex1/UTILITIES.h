@@ -23,6 +23,8 @@ FractionPeterW add(const FractionPeterW&, const FractionPeterW&);
 FractionPeterW subtract(const FractionPeterW&, const FractionPeterW&);
 FractionPeterW multiply(const FractionPeterW&, const FractionPeterW&);
 FractionPeterW divide(const FractionPeterW&, const FractionPeterW&);
-FractionPeterW print(const FractionPeterW&, const FractionPeterW&);
+void print(const FractionPeterW&);
+
+void nulTest(FractionPeterW**);
 
 #endif
